@@ -1,1 +1,1 @@
-flameshot
+systemctl start docker
